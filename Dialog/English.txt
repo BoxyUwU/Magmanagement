@@ -121,7 +121,7 @@ poem_Boxy_Magmanagement_8A_spicy_B= Say goodbye
 poem_Boxy_Magmanagement_9A_spicy_A= Empty Space
 
 Boxy_Magmanagement_1A_spicy_postcard=
-    Select {#ff1144}Save and Quit{#} from the pause menu at any time to take a break. You'll resume from the same screen and you won't lose any progress!
+    Lava tech is not required in this map.
 
 Boxy_Magmanagement_2A_spicy_postcard=
     {#ff1144}Strawberries{#} will impress your friends, but that's about it. Only collect them if you really want to!
